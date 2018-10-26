@@ -93,16 +93,16 @@ paginate = 10
 			description = "Lorem ipsum dolor sit amet."
 
 	[params.recentposts]
-		hide  = false
-		title = "Recent blog posts"
+		hide  = true
+		title = "Blog Posts recientes"
 
 	[params.contact]
 		hide  = false
-		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		title = "Contactenos"
+		content = "Dejenos su mensaje."
 
 		# This can be exact coordinates or a searchable address in google maps
-		gmaps_address = "39.7889055,-120.5443524"
+		gmaps_address = "40.2090039,-74.7454793"
 		address = [
 			"228 Cummings Ave",
 			"Trenton, New Jersey 08611",
